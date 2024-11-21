@@ -1,0 +1,6 @@
+<div class="product-card">
+    <img src="assets/product1.jpg" alt="Product Name">
+    <h3>Product Name</h3>
+    <p>$10.00</p>
+    <button onclick="addToCart({ id: 1, name: 'Product Name', price: 10 })">Add to Cart</button>
+</div>
